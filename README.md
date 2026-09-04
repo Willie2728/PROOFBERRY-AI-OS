@@ -195,6 +195,8 @@ The product should emphasize:
 - Easy-to-understand controls
 - Transparency around what each AI worker is doing
 
+Canonical autonomous-agent lifecycle states are: `idle`, `working`, `blocked`, `awaiting_approval`, `completed`, and `failed`. Important autonomous actions must expose permissions, approval requirements, Capability Gate status, escalation ownership, and audit history.
+
 ## Company Pages
 
 The product should contain polished public-facing sections for:
@@ -219,3 +221,15 @@ PROOFBERRY is a Wilkerson Collective Labs product. Commercial deployments may in
 This GitHub repository is the canonical source of truth for PROOFBERRY AI-OS code, specifications, architecture, implementation notes, and release history.
 
 All material product changes should be reflected here before being considered complete.
+
+Current delivery status against issue #1 is tracked in `docs/IMPLEMENTATION_STATUS.md`. Canonical product requirements remain in `docs/PRODUCT_REQUIREMENTS.md`.
+
+### Validation
+
+Governance validation has a dependency-free Node test suite. Run:
+
+```bash
+npm test
+```
+
+A feature is not complete until behavior, applicable UI states, error/permission handling, validation/tests, documentation, and source-of-truth updates are all present.
