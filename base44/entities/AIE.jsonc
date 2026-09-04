@@ -1,0 +1,60 @@
+{
+  "name": "AIE",
+  "type": "object",
+  "properties": {
+    "agent_id": {
+      "type": "string",
+      "description": "Wilkerson Collective Agent ID, e.g. WC100. Standard format: WC prefix + numeric sequence (zero-padded to 2 digits). Used as a human-readable SKU-style identifier across the entire asset stack."
+    },
+    "name": {
+      "type": "string",
+      "description": "AI Employee display name"
+    },
+    "role": {
+      "type": "string",
+      "description": "Functional role, e.g. Recruiting Coordinator AIE"
+    },
+    "specialty": {
+      "type": "string",
+      "description": "Domain specialty, e.g. Employment Law, Talent Acquisition, Onboarding"
+    },
+    "capabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Administrative capabilities this AIE can perform"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "standby",
+        "training"
+      ],
+      "default": "active",
+      "description": "Operational status of the AI Employee"
+    },
+    "agent_name": {
+      "type": "string",
+      "description": "Backing in-app agent name if conversational; empty for admin-only AIEs"
+    },
+    "avatar_gradient": {
+      "type": "string",
+      "description": "Tailwind gradient classes for the avatar, e.g. from-primary to-accent"
+    },
+    "tasks_completed": {
+      "type": "number",
+      "default": 0,
+      "description": "Number of administrative tasks completed"
+    },
+    "region_scope": {
+      "type": "string",
+      "description": "Geographic scope, e.g. US, EU, Global"
+    }
+  },
+  "required": [
+    "name",
+    "role"
+  ]
+}

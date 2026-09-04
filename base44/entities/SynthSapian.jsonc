@@ -1,0 +1,84 @@
+{
+  "name": "SynthSapian",
+  "type": "object",
+  "properties": {
+    "agent_id": {
+      "type": "string",
+      "description": "Wilkerson Collective Agent ID, e.g. WC04. Standard format: WC prefix + numeric sequence (zero-padded to 2 digits). Used as a human-readable SKU-style identifier across the entire asset stack."
+    },
+    "name": {
+      "type": "string",
+      "description": "SynthSapian display name, e.g. ARIA-7"
+    },
+    "role": {
+      "type": "string",
+      "description": "Job title this digital human performs, e.g. Senior Full-Stack Engineer"
+    },
+    "department": {
+      "type": "string",
+      "description": "Department or domain, e.g. Engineering & Development, Data & AI, Security & Compliance"
+    },
+    "tier": {
+      "type": "string",
+      "enum": [
+        "leadership",
+        "specialist",
+        "support"
+      ],
+      "default": "specialist",
+      "description": "Workforce tier \u2014 leadership runs divisions, specialists execute, support handles admin"
+    },
+    "description": {
+      "type": "string",
+      "description": "Job descriptor \u2014 what this SynthSapian does and the value it delivers"
+    },
+    "specialty": {
+      "type": "string",
+      "description": "Domain specialty or focus area, e.g. Employment Law, Cloud Security, Growth Marketing"
+    },
+    "why_it_matters": {
+      "type": "string",
+      "description": "Why this role matters to an enterprise \u2014 the business problem it solves and the risk it mitigates"
+    },
+    "capabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Laser-focused specialist capabilities this digital human performs autonomously"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "Photorealistic portrait URL of the digital human"
+    },
+    "daily_rate": {
+      "type": "number",
+      "description": "Daily deployment rate in USD for workforce packaging"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "available",
+        "deployed",
+        "customizing"
+      ],
+      "default": "available",
+      "description": "Availability status in the catalog"
+    },
+    "region_scope": {
+      "type": "string",
+      "default": "Global",
+      "description": "Geographic operating scope"
+    },
+    "avatar_gradient": {
+      "type": "string",
+      "description": "Tailwind gradient classes for fallback avatar"
+    }
+  },
+  "required": [
+    "name",
+    "role",
+    "department",
+    "description"
+  ]
+}

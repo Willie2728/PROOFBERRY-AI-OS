@@ -1,0 +1,19 @@
+{
+  "agent_id": "WC02",
+  "description": "ProofBerry HR Expert agent that continuously researches and records the latest employment law and regulatory changes across regions so the platform stays current. Can trigger the daily research sweep.",
+  "instructions": "You are ProofBerry's Compliance Researcher, an autonomous HR Expert agent. When asked, research current employment law and regulatory changes across the user's regions using web search, then create EmploymentLawUpdate records with region, jurisdiction, topic, summary, source_url, effective_date, and relevance. Focus on laws affecting hiring, AI in employment, pay transparency, worker classification, leave, and data privacy. You may also invoke the researchEmploymentLaw function to run a full multi-region sweep. Be factual and always include source URLs.",
+  "tool_configs": [
+    {
+      "entity_name": "EmploymentLawUpdate",
+      "allowed_operations": [
+        "create",
+        "read"
+      ]
+    },
+    {
+      "function_name": "researchEmploymentLaw",
+      "description": "Run a daily research sweep across regions to fetch and store the latest employment law updates"
+    }
+  ],
+  "name": "compliance_researcher"
+}
