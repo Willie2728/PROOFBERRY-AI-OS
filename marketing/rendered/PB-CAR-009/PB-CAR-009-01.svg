@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/><circle cx="900" cy="180" r="260" fill="#8b5cf6" opacity="0.10"/><circle cx="170" cy="1160" r="290" fill="#22d3ee" opacity="0.08"/>
+  <text x="80" y="100" fill="#94a3b8" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROOFBERRY AI · CUSTOMER TRUST SERIES</text>
+  <text x="80" y="330" fill="#ffffff" font-family="Arial, sans-serif" font-size="96" font-weight="800">PROOF</text>
+  <text x="80" y="435" fill="url(#acc)" font-family="Arial, sans-serif" font-size="96" font-weight="800">WITHOUT</text>
+  <text x="80" y="540" fill="#ffffff" font-family="Arial, sans-serif" font-size="96" font-weight="800">SUSPICION.</text>
+  <text x="80" y="700" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="42" font-weight="500">Hiring trust does not have to start by</text>
+  <text x="80" y="755" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="42" font-weight="500">treating every applicant like a fraud case.</text>
+  <rect x="80" y="880" width="920" height="2" fill="#334155"/>
+  <text x="80" y="960" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="700">Better signal. Clear expectations.</text>
+  <text x="80" y="1010" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="700">Human-owned decisions.</text>
+  <text x="80" y="1260" fill="#64748b" font-family="Arial, sans-serif" font-size="24">1 / 5 · ProofBerry early access</text>
+</svg>
