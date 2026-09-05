@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#07111f"/>
+  <circle cx="1035" cy="125" r="235" fill="#2563eb" opacity="0.16"/>
+  <circle cx="165" cy="1455" r="260" fill="#06b6d4" opacity="0.10"/>
+  <text x="84" y="92" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN-PARTNER METHOD</text>
+  <text x="84" y="185" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">A verification label is not enough.</text>
+  <text x="84" y="260" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">Show where the evidence came from.</text>
+  <text x="84" y="326" fill="#a8b4c8" font-family="Arial, Helvetica, sans-serif" font-size="28">One live role. One reviewable evidence chain. Human-owned decision.</text>
+  <rect x="84" y="390" width="1032" height="760" rx="30" fill="#0d1b2d" stroke="#27415f" stroke-width="2"/>
+  <text x="128" y="452" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">LABEL THE SOURCE BEFORE YOU SUMMARIZE THE SIGNAL</text>
+  <rect x="128" y="500" width="944" height="104" rx="20" fill="#10243a"/>
+  <text x="160" y="540" fill="#60a5fa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">01 · CANDIDATE-STATED</text><text x="160" y="579" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">A claim, explanation, credential, or experience described by the candidate.</text>
+  <rect x="128" y="626" width="944" height="104" rx="20" fill="#10243a"/>
+  <text x="160" y="666" fill="#22d3ee" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">02 · DEMONSTRATED</text><text x="160" y="705" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">A work sample, role exercise, answer, or observable demonstration.</text>
+  <rect x="128" y="752" width="944" height="104" rx="20" fill="#10243a"/>
+  <text x="160" y="792" fill="#a78bfa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">03 · RECRUITER-OBSERVED</text><text x="160" y="831" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Reviewer context: what was observed, clarified, or still needs follow-up.</text>
+  <rect x="128" y="878" width="944" height="104" rx="20" fill="#10243a"/>
+  <text x="160" y="918" fill="#34d399" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">04 · THIRD-PARTY CHECK · WHEN AVAILABLE</text><text x="160" y="957" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">An external check should be named precisely — never implied by a generic badge.</text>
+  <rect x="128" y="1004" width="944" height="104" rx="20" fill="#10243a"/>
+  <text x="160" y="1044" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">05 · UNRESOLVED</text><text x="160" y="1083" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Make the open question visible so the client knows what still needs judgment.</text>
+  <path d="M600 1174 L600 1230" stroke="#67e8f9" stroke-width="5"/><path d="M585 1215 L600 1233 L615 1215" fill="none" stroke="#67e8f9" stroke-width="5"/>
+  <rect x="150" y="1260" width="900" height="145" rx="28" fill="#0b2b3a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="600" y="1314" text-anchor="middle" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">CLIENT REVIEW → HUMAN-OWNED DECISION</text><text x="600" y="1360" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Bring one live role and label the evidence before you score it.</text>
+  <text x="84" y="1486" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">Illustrative early-access pilot method. Not a finalized rubric, identity check, compliance certification,</text><text x="84" y="1518" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">bias-elimination claim, performance predictor, placement guarantee, ATS integration, or automatic hiring decision.</text>
+  <text x="84" y="1570" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PROOFBERRY AI · Clearer evidence. Accountable review.</text>
+</svg>
