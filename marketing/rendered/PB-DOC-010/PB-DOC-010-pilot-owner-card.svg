@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry One Role One Owner Pilot Card</title>
+  <desc id="desc">Staffing design-partner card showing how to run one live role with a named pilot owner, reviewer, scorecard, and decision date.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10051f"/><stop offset="0.52" stop-color="#18102d"/><stop offset="1" stop-color="#07131f"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b86cff"/><stop offset="1" stop-color="#45d7ff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="1030" cy="180" r="220" fill="#6f2cff" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="165" cy="1370" r="230" fill="#00b2df" opacity="0.10" filter="url(#glow)"/>
+  <rect x="72" y="68" width="1056" height="1464" rx="42" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="96" y="130" fill="#baa6d7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN PARTNER</text>
+  <text x="96" y="226" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800">One live role.</text>
+  <text x="96" y="306" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800">One named owner.</text>
+  <text x="96" y="366" fill="#c8c3d2" font-family="Arial, Helvetica, sans-serif" font-size="29">A pilot is easier to judge when ownership is explicit before it starts.</text>
+  <rect x="96" y="438" width="1008" height="238" rx="30" fill="#ffffff" fill-opacity="0.055" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="130" y="492" fill="#8cddff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PILOT OPERATING CONTRACT</text>
+  <text x="130" y="552" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">ROLE</text><text x="326" y="552" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30">One active client requisition</text>
+  <text x="130" y="606" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">OWNER</text><text x="326" y="606" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30">One recruiter or operations lead</text>
+  <text x="130" y="660" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">REVIEWER</text><text x="326" y="660" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30">One client-side decision partner</text>
+  <text x="96" y="770" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">Define the finish line before the first candidate.</text>
+  <rect x="96" y="814" width="310" height="300" rx="28" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="126" y="866" fill="#8cddff" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">1 · SCORECARD</text>
+  <text x="126" y="924" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Review clarity</text><text x="126" y="972" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Recruiter effort</text><text x="126" y="1020" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Candidate friction</text><text x="126" y="1068" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Client usefulness</text>
+  <rect x="445" y="814" width="310" height="300" rx="28" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="475" y="866" fill="#caa7ff" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">2 · CADENCE</text>
+  <text x="475" y="924" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Keep normal workflow</text><text x="475" y="972" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Add evidence packet</text><text x="475" y="1020" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Capture reviewer notes</text><text x="475" y="1068" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Track unknowns</text>
+  <rect x="794" y="814" width="310" height="300" rx="28" fill="#6d39ad" fill-opacity="0.16" stroke="#b86cff" stroke-opacity="0.34"/>
+  <text x="824" y="866" fill="#8cddff" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">3 · DECISION DATE</text>
+  <text x="824" y="924" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Review one role</text><text x="824" y="972" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Compare the handoff</text><text x="824" y="1020" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Name what improved</text><text x="824" y="1068" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27">Expand, revise, or stop</text>
+  <text x="96" y="1215" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">Do not let the pilot become nobody's job.</text>
+  <text x="96" y="1272" fill="#c8c3d2" font-family="Arial, Helvetica, sans-serif" font-size="28">ProofBerry's early-access staffing pilot is designed to run beside the existing stack.</text>
+  <text x="96" y="1315" fill="#c8c3d2" font-family="Arial, Helvetica, sans-serif" font-size="28">The buyer keeps the workflow, names the owner, and keeps consequential hiring decisions human.</text>
+  <rect x="96" y="1416" width="1008" height="74" rx="37" fill="url(#accent)"/>
+  <text x="600" y="1464" text-anchor="middle" fill="#09111d" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">REQUEST A ONE-ROLE STAFFING DESIGN-PARTNER PILOT</text>
+  <text x="96" y="1524" fill="#8f8a9b" font-family="Arial, Helvetica, sans-serif" font-size="18">Illustrative early-access pilot framework. No ROI, placement, compliance, bias-elimination, integration, or predictive-validity guarantee.</text>
+</svg>
