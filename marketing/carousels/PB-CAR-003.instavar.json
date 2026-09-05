@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "templateId": "before-after",
+  "deck": {
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "AI can polish an application. Proof should reveal the thinking.",
+        "subtitle": "Hiring teams are under more pressure to separate polished presentation from real capability."
+      },
+      {
+        "kind": "statement",
+        "statement": "BEFORE: A resume says ‘problem solver.’",
+        "footnote": "The status quo"
+      },
+      {
+        "kind": "statement",
+        "statement": "AFTER: Role-specific evidence shows how the candidate approached the problem.",
+        "footnote": "The shift"
+      },
+      {
+        "kind": "takeaway",
+        "title": "ProofBerry is being built to turn claims into structured, inspectable capability evidence.",
+        "cta": "Join the ProofBerry AI early-access waitlist."
+      }
+    ],
+    "handle": "PROOFBERRY AI",
+    "showPageNumber": true,
+    "visualStyle": "editorial",
+    "aspect": "4:5"
+  },
+  "validation": {
+    "ok": true,
+    "slideCount": 4
+  }
+}
