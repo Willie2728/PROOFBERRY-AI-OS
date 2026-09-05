@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry Parallel-Run Pilot Card</title>
+  <desc id="desc">A staffing design-partner card explaining how to test ProofBerry alongside an existing recruiting workflow on one live role.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10051f"/><stop offset="0.55" stop-color="#17112d"/><stop offset="1" stop-color="#07121e"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b86cff"/><stop offset="1" stop-color="#41d8ff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="1020" cy="180" r="210" fill="#6f2cff" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="180" cy="1320" r="220" fill="#00a8d8" opacity="0.12" filter="url(#glow)"/>
+  <rect x="74" y="70" width="1052" height="1460" rx="42" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="96" y="130" fill="#b9a4d7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN PARTNER</text>
+  <text x="96" y="230" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Keep your stack.</text>
+  <text x="96" y="310" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Run one role in parallel.</text>
+  <text x="96" y="370" fill="#c6c2d2" font-family="Arial, Helvetica, sans-serif" font-size="30">Test whether a client-ready evidence packet improves review clarity</text>
+  <text x="96" y="410" fill="#c6c2d2" font-family="Arial, Helvetica, sans-serif" font-size="30">without asking your recruiters to replace the workflow they already use.</text>
+  <rect x="96" y="478" width="1008" height="220" rx="28" fill="#ffffff" fill-opacity="0.055" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="130" y="530" fill="#8cdfff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PARALLEL-RUN PILOT</text>
+  <text x="130" y="590" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">1. Choose one live role</text>
+  <text x="560" y="590" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">2. Keep your normal submission</text>
+  <text x="130" y="648" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">3. Add a ProofBerry evidence packet</text>
+  <text x="700" y="648" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">4. Compare the review</text>
+  <text x="96" y="785" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">What changes?</text>
+  <rect x="96" y="820" width="474" height="330" rx="28" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="126" y="872" fill="#c8b9dc" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">CURRENT CLIENT HANDOFF</text>
+  <text x="126" y="930" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Resume / profile</text>
+  <text x="126" y="980" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Recruiter notes</text>
+  <text x="126" y="1030" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Existing ATS fields</text>
+  <text x="126" y="1080" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Existing client review</text>
+  <rect x="630" y="820" width="474" height="330" rx="28" fill="#6d39ad" fill-opacity="0.16" stroke="#b86cff" stroke-opacity="0.34"/>
+  <text x="660" y="872" fill="#8cdfff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PROOFBERRY EVIDENCE PACKET</text>
+  <text x="660" y="930" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Role criterion</text>
+  <text x="660" y="980" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Candidate work evidence</text>
+  <text x="660" y="1030" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Follow-up reasoning</text>
+  <text x="660" y="1080" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">• Reviewer note + open question</text>
+  <text x="96" y="1235" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">Decide after the role — not before.</text>
+  <text x="96" y="1290" fill="#c6c2d2" font-family="Arial, Helvetica, sans-serif" font-size="28">Did the client understand the candidate faster? Was the evidence more useful?</text>
+  <text x="96" y="1332" fill="#c6c2d2" font-family="Arial, Helvetica, sans-serif" font-size="28">Did recruiter effort stay reasonable? Did candidate friction stay acceptable?</text>
+  <text x="96" y="1374" fill="#c6c2d2" font-family="Arial, Helvetica, sans-serif" font-size="28">If the workflow earns a second role, expand. If not, stop.</text>
+  <rect x="96" y="1422" width="1008" height="72" rx="36" fill="url(#accent)"/>
+  <text x="600" y="1469" text-anchor="middle" fill="#09111d" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">STAFFING FIRM? REQUEST ONE-ROLE DESIGN-PARTNER ACCESS</text>
+  <text x="96" y="1526" fill="#8f8a9b" font-family="Arial, Helvetica, sans-serif" font-size="18">Illustrative early-access pilot concept. No automatic hiring decision, placement guarantee, bias-elimination claim, or integration guarantee.</text>
+</svg>
