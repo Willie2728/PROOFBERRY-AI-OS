@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#07111f"/>
+  <circle cx="1040" cy="120" r="235" fill="#2563eb" opacity="0.16"/>
+  <circle cx="145" cy="1455" r="255" fill="#06b6d4" opacity="0.10"/>
+  <text x="84" y="92" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN-PARTNER METHOD</text>
+  <text x="84" y="185" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">Coverage before score.</text>
+  <text x="84" y="263" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Show what the evidence answers —</text>
+  <text x="84" y="330" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">and what it still does not.</text>
+  <text x="84" y="388" fill="#a8b4c8" font-family="Arial, Helvetica, sans-serif" font-size="28">One live role. Same role criteria. Visible evidence gaps. Human-owned decision.</text>
+  <rect x="84" y="448" width="1032" height="755" rx="30" fill="#0d1b2d" stroke="#27415f" stroke-width="2"/>
+  <text x="128" y="508" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">BUILD THE REVIEW MAP BEFORE SUMMARIZING A CANDIDATE</text>
+  <rect x="128" y="552" width="944" height="116" rx="20" fill="#10243a"/>
+  <text x="160" y="594" fill="#60a5fa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">01 · ROLE CRITERION</text>
+  <text x="160" y="636" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29">Name the job-relevant question the reviewer actually needs answered.</text>
+  <rect x="128" y="690" width="944" height="116" rx="20" fill="#10243a"/>
+  <text x="160" y="732" fill="#22d3ee" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">02 · EVIDENCE PRESENT</text>
+  <text x="160" y="774" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29">Link the work sample, answer, observation, or check that speaks to it.</text>
+  <rect x="128" y="828" width="944" height="116" rx="20" fill="#10243a"/>
+  <text x="160" y="870" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">03 · GAP / CONFLICT / UNKNOWN</text>
+  <text x="160" y="912" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29">Make missing, conflicting, or weak evidence visible instead of hiding it in a score.</text>
+  <rect x="128" y="966" width="944" height="116" rx="20" fill="#10243a"/>
+  <text x="160" y="1008" fill="#a78bfa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">04 · NEXT REVIEW QUESTION</text>
+  <text x="160" y="1050" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29">Give the recruiter or client the next specific question to resolve.</text>
+  <rect x="128" y="1104" width="944" height="70" rx="20" fill="#0b2b3a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="600" y="1148" text-anchor="middle" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">REVIEW COVERAGE → RESOLVE GAPS → HUMAN DECISION</text>
+  <rect x="150" y="1255" width="900" height="150" rx="28" fill="#0b2b3a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="600" y="1310" text-anchor="middle" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PILOT ONE LIVE ROLE</text>
+  <text x="600" y="1357" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Compare evidence coverage — not just candidate totals.</text>
+  <text x="84" y="1482" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">Illustrative early-access pilot method. ProofBerry currently has no finalized RubricCriterion records in the connected app.</text>
+  <text x="84" y="1514" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">Not a validated selection model, identity check, compliance certification, bias-elimination claim, predictor, guarantee, or automatic hiring decision.</text>
+  <text x="84" y="1570" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PROOFBERRY AI · Make the evidence coverage reviewable.</text>
+</svg>
