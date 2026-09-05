@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#07111f"/>
+  <circle cx="1035" cy="120" r="235" fill="#2563eb" opacity="0.16"/>
+  <circle cx="145" cy="1450" r="255" fill="#06b6d4" opacity="0.10"/>
+  <text x="84" y="92" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN-PARTNER METHOD</text>
+  <text x="84" y="184" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">Proof should not become</text>
+  <text x="84" y="258" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">an obstacle course.</text>
+  <text x="84" y="324" fill="#a8b4c8" font-family="Arial, Helvetica, sans-serif" font-size="29">Spend candidate effort only where the role risk justifies stronger evidence.</text>
+  <rect x="84" y="404" width="1032" height="804" rx="30" fill="#0d1b2d" stroke="#27415f" stroke-width="2"/>
+  <text x="128" y="468" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">SET AN EVIDENCE-BURDEN BUDGET BEFORE THE PILOT</text>
+  <rect x="128" y="512" width="944" height="132" rx="20" fill="#10243a"/>
+  <text x="160" y="554" fill="#60a5fa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">01 · PRIORITIZE ROLE-CRITICAL QUESTIONS</text>
+  <text x="160" y="596" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Require stronger proof only where the hiring decision materially depends on it.</text>
+  <rect x="128" y="666" width="944" height="132" rx="20" fill="#10243a"/>
+  <text x="160" y="708" fill="#22d3ee" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">02 · ASK FOR THE LOWEST-BURDEN USEFUL EVIDENCE</text>
+  <text x="160" y="750" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Use an existing artifact or short explanation before adding a longer assessment.</text>
+  <rect x="128" y="820" width="944" height="132" rx="20" fill="#10243a"/>
+  <text x="160" y="862" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">03 · ESCALATE ONLY UNRESOLVED RISK</text>
+  <text x="160" y="904" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Add deeper follow-up when the evidence is weak, conflicting, or still decision-relevant.</text>
+  <rect x="128" y="974" width="944" height="132" rx="20" fill="#10243a"/>
+  <text x="160" y="1016" fill="#a78bfa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">04 · MEASURE CANDIDATE FRICTION</text>
+  <text x="160" y="1058" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Track starts, completions, abandonment, burden feedback, and reviewer usefulness.</text>
+  <rect x="128" y="1128" width="944" height="50" rx="18" fill="#0b2b3a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="600" y="1162" text-anchor="middle" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">DEEPER PROOF FOR FEWER, HIGHER-VALUE QUESTIONS</text>
+  <rect x="150" y="1260" width="900" height="154" rx="28" fill="#0b2b3a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="600" y="1316" text-anchor="middle" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PILOT ONE LIVE ROLE</text>
+  <text x="600" y="1364" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Cap the evidence burden before the pilot starts.</text>
+  <text x="84" y="1482" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">Illustrative early-access pilot method. ProofBerry currently has no finalized RubricCriterion records in the connected app.</text>
+  <text x="84" y="1514" fill="#93a4bb" font-family="Arial, Helvetica, sans-serif" font-size="20">No validated burden threshold, selection model, compliance certification, bias-elimination claim, predictor, guarantee, or automatic hiring decision.</text>
+  <text x="84" y="1570" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PROOFBERRY AI · Stronger evidence without unnecessary candidate friction.</text>
+</svg>
