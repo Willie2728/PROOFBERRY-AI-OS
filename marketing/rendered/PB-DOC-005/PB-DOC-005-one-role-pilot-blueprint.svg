@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry AI — One Role Pilot Blueprint</title>
+  <desc id="desc">Illustrative staffing design-partner blueprint showing how to test ProofBerry on one live role with human-owned hiring decisions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131f"/><stop offset="1" stop-color="#10283a"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#63e6be"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-opacity="0.18"/></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="1060" cy="160" r="230" fill="#1f5f75" opacity="0.18"/>
+  <circle cx="110" cy="1460" r="260" fill="#1d7a68" opacity="0.14"/>
+  <text x="86" y="104" fill="#8da5b6" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">PROOFBERRY AI • STAFFING DESIGN PARTNER</text>
+  <text x="86" y="195" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800">Pilot one live role.</text>
+  <text x="86" y="265" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800">Not your whole stack.</text>
+  <rect x="86" y="302" width="430" height="8" rx="4" fill="url(#accent)"/>
+  <text x="86" y="366" fill="#bed0db" font-family="Inter, Arial, sans-serif" font-size="30">A low-friction way to test whether structured capability evidence</text>
+  <text x="86" y="407" fill="#bed0db" font-family="Inter, Arial, sans-serif" font-size="30">makes the recruiter → client handoff easier to inspect and discuss.</text>
+  <g filter="url(#shadow)"><rect x="86" y="475" width="1028" height="640" rx="34" fill="#f7fbfd"/></g>
+  <text x="132" y="540" fill="#0d2434" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">ONE-ROLE PILOT</text>
+  <text x="880" y="540" fill="#2a5967" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">ILLUSTRATIVE</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <circle cx="150" cy="620" r="31" fill="#d9fbf2"/><text x="141" y="631" fill="#0c5b4b" font-size="28" font-weight="800">1</text><text x="205" y="610" fill="#102f3f" font-size="28" font-weight="800">Choose one live role</text><text x="205" y="648" fill="#4e6573" font-size="22">Use a real hiring need with a named recruiter and human decision owner.</text>
+    <circle cx="150" cy="728" r="31" fill="#e5f4ff"/><text x="141" y="739" fill="#19577a" font-size="28" font-weight="800">2</text><text x="205" y="718" fill="#102f3f" font-size="28" font-weight="800">Agree the evidence questions</text><text x="205" y="756" fill="#4e6573" font-size="22">Define a small set of role-relevant criteria and what evidence would help review them.</text>
+    <circle cx="150" cy="836" r="31" fill="#d9fbf2"/><text x="141" y="847" fill="#0c5b4b" font-size="28" font-weight="800">3</text><text x="205" y="826" fill="#102f3f" font-size="28" font-weight="800">Run a small candidate cohort</text><text x="205" y="864" fill="#4e6573" font-size="22">Capture explanations, demonstrations, artifacts, and the questions still unresolved.</text>
+    <circle cx="150" cy="944" r="31" fill="#e5f4ff"/><text x="141" y="955" fill="#19577a" font-size="28" font-weight="800">4</text><text x="205" y="934" fill="#102f3f" font-size="28" font-weight="800">Build the client handoff</text><text x="205" y="972" fill="#4e6573" font-size="22">Organize criterion → evidence → recruiter note → follow-up question for human review.</text>
+    <circle cx="150" cy="1052" r="31" fill="#d9fbf2"/><text x="141" y="1063" fill="#0c5b4b" font-size="28" font-weight="800">5</text><text x="205" y="1042" fill="#102f3f" font-size="28" font-weight="800">Decide whether it earned a second role</text><text x="205" y="1080" fill="#4e6573" font-size="22">Measure usefulness, completion, clarity, and whether the team wants to repeat the workflow.</text>
+  </g>
+  <g><rect x="86" y="1164" width="1028" height="222" rx="28" fill="#0b1d2a" stroke="#315366" stroke-width="2"/><text x="126" y="1218" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">WHAT THE PILOT DOES NOT CLAIM</text><text x="126" y="1270" fill="#b9cbd6" font-family="Inter, Arial, sans-serif" font-size="22">No automatic hiring. No guaranteed placement speed. No bias-elimination claim.</text><text x="126" y="1308" fill="#b9cbd6" font-family="Inter, Arial, sans-serif" font-size="22">No promise that a score predicts job performance. Human reviewers keep consequential decisions.</text><text x="126" y="1352" fill="#63e6be" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">The question is simpler: did the evidence handoff help the team make a better-informed review?</text></g>
+  <text x="86" y="1462" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">ProofBerry AI</text><text x="86" y="1504" fill="#a9becb" font-family="Inter, Arial, sans-serif" font-size="23">Early-access staffing design partner • illustrative pilot blueprint</text><rect x="812" y="1443" width="302" height="72" rx="36" fill="url(#accent)"/><text x="867" y="1489" fill="#08232d" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">REQUEST EARLY ACCESS</text>
+</svg>
