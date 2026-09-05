@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry illustrative recruiter evidence brief</title>
+  <desc id="desc">A one-page illustrative sample showing role criteria, candidate evidence, reviewer follow-up questions, and human decision ownership.</desc>
+  <rect width="1200" height="1600" fill="#08111f"/>
+  <rect x="64" y="64" width="1072" height="1472" rx="32" fill="#0d1728" stroke="#24324a" stroke-width="2"/>
+  <text x="96" y="122" fill="#9fb3d9" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">PROOFBERRY AI • ILLUSTRATIVE SAMPLE</text>
+  <text x="96" y="188" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="800">Recruiter Evidence Brief</text>
+  <text x="96" y="232" fill="#aebdd3" font-family="Arial, sans-serif" font-size="25">A review packet for the live interview — not an automatic hiring decision.</text>
+  <rect x="96" y="278" width="1008" height="132" rx="20" fill="#111f35" stroke="#2d456b"/>
+  <text x="124" y="322" fill="#78d6ff" font-family="Arial, sans-serif" font-size="19" font-weight="700">ROLE</text>
+  <text x="124" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Customer Success Manager</text>
+  <text x="720" y="322" fill="#78d6ff" font-family="Arial, sans-serif" font-size="19" font-weight="700">CANDIDATE</text>
+  <text x="720" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="700">Illustrative Candidate A</text>
+  <text x="720" y="390" fill="#90a1bb" font-family="Arial, sans-serif" font-size="17">Not a real person. No customer data.</text>
+  <text x="96" y="468" fill="#ffffff" font-family="Arial, sans-serif" font-size="31" font-weight="800">Role criteria → observed evidence → human review</text>
+  <rect x="96" y="506" width="1008" height="220" rx="20" fill="#0b2130" stroke="#1f6073"/>
+  <text x="124" y="548" fill="#74e7d4" font-family="Arial, sans-serif" font-size="20" font-weight="700">CRITERION 01 • CUSTOMER DIAGNOSIS</text>
+  <text x="124" y="591" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">Observed in simulated role task</text>
+  <text x="124" y="630" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">Separated a product defect from an onboarding misunderstanding before</text>
+  <text x="124" y="660" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">recommending the next customer action.</text>
+  <text x="124" y="702" fill="#8fb0c9" font-family="Arial, sans-serif" font-size="18">Reviewer follow-up: “What evidence made you rule out the other cause?”</text>
+  <rect x="96" y="752" width="1008" height="220" rx="20" fill="#111b33" stroke="#394f80"/>
+  <text x="124" y="794" fill="#9fb3ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">CRITERION 02 • COMMUNICATION</text>
+  <text x="124" y="837" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">Observed in explanation + response draft</text>
+  <text x="124" y="876" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">Explained the issue in plain language, stated what was known versus uncertain,</text>
+  <text x="124" y="906" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">and proposed a next step without overpromising.</text>
+  <text x="124" y="948" fill="#9fb3c8" font-family="Arial, sans-serif" font-size="18">Reviewer follow-up: “How would you change this response for an upset executive sponsor?”</text>
+  <rect x="96" y="998" width="1008" height="220" rx="20" fill="#241a30" stroke="#684283"/>
+  <text x="124" y="1040" fill="#ddb0ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">CRITERION 03 • PRIORITIZATION</text>
+  <text x="124" y="1083" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">Observed in queue-triage scenario</text>
+  <text x="124" y="1122" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">Prioritized a service interruption over a renewal question and a training request,</text>
+  <text x="124" y="1152" fill="#c7d2e3" font-family="Arial, sans-serif" font-size="20">then explained the tradeoff.</text>
+  <text x="124" y="1194" fill="#b9a2c9" font-family="Arial, sans-serif" font-size="18">Reviewer follow-up: “What new fact would make you reorder the queue?”</text>
+  <rect x="96" y="1246" width="1008" height="150" rx="20" fill="#151c28" stroke="#3c4a5e"/>
+  <text x="124" y="1288" fill="#f5cf72" font-family="Arial, sans-serif" font-size="20" font-weight="700">HUMAN REVIEW NOTE</text>
+  <text x="124" y="1330" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">Evidence supports a deeper live interview. It does not make the hiring decision.</text>
+  <text x="124" y="1365" fill="#aebdd3" font-family="Arial, sans-serif" font-size="18">Use the brief to ask better questions, inspect context, and document human judgment.</text>
+  <line x1="96" y1="1442" x2="1104" y2="1442" stroke="#2d3b50"/>
+  <text x="96" y="1488" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="800">ProofBerry AI</text>
+  <text x="96" y="1522" fill="#93a4bc" font-family="Arial, sans-serif" font-size="18">Role-relevant evidence. Inspectable context. Human-owned decisions.</text>
+  <text x="1104" y="1510" text-anchor="end" fill="#78d6ff" font-family="Arial, sans-serif" font-size="19" font-weight="700">EARLY ACCESS</text>
+</svg>
