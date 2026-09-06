@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry Recruiter Intent Gate</title>
+  <desc id="desc">A staffing buyer decision card that separates exploration from a live-role pilot before contact information is requested.</desc>
+  <rect width="1200" height="1600" fill="#08111f"/>
+  <rect x="56" y="56" width="1088" height="1488" rx="36" fill="#0d1a2d" stroke="#24364f" stroke-width="2"/>
+  <text x="96" y="126" fill="#69e1c2" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">PROOFBERRY AI • STAFFING BUYER PATH</text>
+  <text x="96" y="206" fill="#ffffff" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="800">Ask the buying question first.</text>
+  <text x="96" y="258" fill="#afbed1" font-size="27" font-family="Arial, Helvetica, sans-serif">Before the contact form: are you exploring, or do you have a live role?</text>
+  <rect x="96" y="318" width="1008" height="138" rx="24" fill="#102641" stroke="#2c5077"/>
+  <text x="128" y="366" fill="#69e1c2" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">WHY THIS GATE EXISTS</text>
+  <text x="128" y="407" fill="#e8f0f9" font-size="24" font-family="Arial, Helvetica, sans-serif">Exploration and pilot readiness are different buyer states.</text>
+  <text x="128" y="438" fill="#9eb0c5" font-size="18" font-family="Arial, Helvetica, sans-serif">The gate classifies buyer intent. It does not score candidates or make hiring decisions.</text>
+  <rect x="96" y="510" width="488" height="390" rx="28" fill="#111f34" stroke="#28415f" stroke-width="2"/>
+  <text x="130" y="568" fill="#ffffff" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="800">I’m exploring options</text>
+  <text x="130" y="618" fill="#b6c4d6" font-size="21" font-family="Arial, Helvetica, sans-serif">Keep the path lightweight.</text>
+  <text x="130" y="670" fill="#69e1c2" font-size="19" font-family="Arial, Helvetica, sans-serif" font-weight="700">CAPTURE</text>
+  <text x="130" y="708" fill="#b6c4d6" font-size="19" font-family="Arial, Helvetica, sans-serif">• Contact information</text>
+  <text x="130" y="744" fill="#b6c4d6" font-size="19" font-family="Arial, Helvetica, sans-serif">• Staffing / recruiting context</text>
+  <text x="130" y="780" fill="#b6c4d6" font-size="19" font-family="Arial, Helvetica, sans-serif">• Early-access interest</text>
+  <text x="130" y="836" fill="#9eb0c5" font-size="17" font-family="Arial, Helvetica, sans-serif">Do not label this buyer design-partner-ready.</text>
+  <rect x="616" y="510" width="488" height="390" rx="28" fill="#0e2d2a" stroke="#2d7569" stroke-width="2"/>
+  <text x="650" y="568" fill="#ffffff" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="800">I have a live role to test</text>
+  <text x="650" y="618" fill="#b7d8d1" font-size="21" font-family="Arial, Helvetica, sans-serif">Reveal the bounded pilot path.</text>
+  <text x="650" y="670" fill="#69e1c2" font-size="19" font-family="Arial, Helvetica, sans-serif" font-weight="700">OPTIONAL READINESS SIGNALS</text>
+  <text x="650" y="708" fill="#b7d8d1" font-size="19" font-family="Arial, Helvetica, sans-serif">• One active requisition</text>
+  <text x="650" y="744" fill="#b7d8d1" font-size="19" font-family="Arial, Helvetica, sans-serif">• One accountable pilot owner</text>
+  <text x="650" y="780" fill="#b7d8d1" font-size="19" font-family="Arial, Helvetica, sans-serif">• 14 / 30 / 60-day decision window</text>
+  <text x="650" y="836" fill="#9fc9c2" font-size="17" font-family="Arial, Helvetica, sans-serif">Readiness describes the buyer-side test, not the candidate.</text>
+  <rect x="96" y="948" width="1008" height="250" rx="28" fill="#121d2e" stroke="#30445f"/>
+  <text x="130" y="1004" fill="#69e1c2" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">MEASURE THE FUNNEL IN THIS ORDER</text>
+  <text x="130" y="1052" fill="#ffffff" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="800">1. Buyer intent selected</text>
+  <text x="130" y="1094" fill="#ffffff" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="800">2. Contact form started</text>
+  <text x="130" y="1136" fill="#ffffff" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="800">3. Live-role readiness supplied</text>
+  <text x="130" y="1178" fill="#ffffff" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="800">4. Submission completed</text>
+  <rect x="96" y="1244" width="1008" height="176" rx="26" fill="#102641" stroke="#2c5077"/>
+  <text x="130" y="1296" fill="#ffffff" font-size="31" font-family="Arial, Helvetica, sans-serif" font-weight="800">Qualified traffic should tell us its state before it gives us its email.</text>
+  <text x="130" y="1342" fill="#afbed1" font-size="20" font-family="Arial, Helvetica, sans-serif">That preserves the difference between curiosity and a measurable one-role design-partner review.</text>
+  <text x="130" y="1382" fill="#9eb0c5" font-size="17" font-family="Arial, Helvetica, sans-serif">Consequential hiring decisions remain human-owned. This is a proposed early-access buyer-qualification method.</text>
+  <text x="96" y="1484" fill="#ffffff" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="800">One question first: exploring, or live role?</text>
+  <text x="96" y="1524" fill="#69e1c2" font-size="21" font-family="Arial, Helvetica, sans-serif" font-weight="700">PROOFBERRY AI • ONE ROLE • ONE OWNER • ONE DECISION WINDOW</text>
+</svg>
