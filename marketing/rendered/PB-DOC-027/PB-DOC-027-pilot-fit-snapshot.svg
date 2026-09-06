@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry AI — Pilot Fit Snapshot</title>
+  <desc id="desc">A buyer-qualification marketing card showing the four inputs for a bounded one-role staffing pilot.</desc>
+  <rect width="1080" height="1350" fill="#08111f"/>
+  <rect x="56" y="56" width="968" height="1238" rx="34" fill="#0f1b2d" stroke="#334155" stroke-width="2"/>
+  <text x="96" y="130" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING DESIGN PARTNER</text>
+  <text x="96" y="210" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800">Qualify the pilot</text>
+  <text x="96" y="278" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800">before the contact form.</text>
+  <text x="96" y="334" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="28">A buyer-qualified one-role review needs four things.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="96" y="400" width="888" height="150" rx="24" fill="#13263d" stroke="#1d4ed8" stroke-width="2"/>
+    <circle cx="150" cy="475" r="30" fill="#1d4ed8"/><text x="140" y="486" fill="#fff" font-size="30" font-weight="700">1</text>
+    <text x="205" y="458" fill="#f8fafc" font-size="31" font-weight="700">One live requisition</text>
+    <text x="205" y="500" fill="#94a3b8" font-size="22">A real role to test, not a hypothetical use case.</text>
+    <rect x="96" y="575" width="888" height="150" rx="24" fill="#13263d" stroke="#0f766e" stroke-width="2"/>
+    <circle cx="150" cy="650" r="30" fill="#0f766e"/><text x="140" y="661" fill="#fff" font-size="30" font-weight="700">2</text>
+    <text x="205" y="633" fill="#f8fafc" font-size="31" font-weight="700">One accountable owner</text>
+    <text x="205" y="675" fill="#94a3b8" font-size="22">Someone responsible for the pilot decision.</text>
+    <rect x="96" y="750" width="888" height="150" rx="24" fill="#13263d" stroke="#7c3aed" stroke-width="2"/>
+    <circle cx="150" cy="825" r="30" fill="#7c3aed"/><text x="140" y="836" fill="#fff" font-size="30" font-weight="700">3</text>
+    <text x="205" y="808" fill="#f8fafc" font-size="31" font-weight="700">One finite decision window</text>
+    <text x="205" y="850" fill="#94a3b8" font-size="22">14, 30, or 60 days to decide what happens next.</text>
+    <rect x="96" y="925" width="888" height="150" rx="24" fill="#13263d" stroke="#c2410c" stroke-width="2"/>
+    <circle cx="150" cy="1000" r="30" fill="#c2410c"/><text x="140" y="1011" fill="#fff" font-size="30" font-weight="700">4</text>
+    <text x="205" y="983" fill="#f8fafc" font-size="31" font-weight="700">One buyer-defined success rule</text>
+    <text x="205" y="1025" fill="#94a3b8" font-size="22">What would make role #2 worth expanding to?</text>
+  </g>
+  <rect x="96" y="1125" width="888" height="86" rx="20" fill="#e0f2fe"/>
+  <text x="130" y="1178" fill="#0c4a6e" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">Qualified traffic &gt; raw email volume.</text>
+  <text x="96" y="1258" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="18">Buyer-side pilot fit only. Not a hiring recommendation, candidate score, or promised outcome.</text>
+</svg>
