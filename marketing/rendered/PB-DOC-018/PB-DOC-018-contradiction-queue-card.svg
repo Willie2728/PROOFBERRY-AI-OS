@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry AI — Contradiction Queue Card</title>
+  <desc id="desc">Illustrative early-access staffing pilot method showing how to route conflicting candidate evidence into targeted human review.</desc>
+  <rect width="1200" height="1600" fill="#08111f"/>
+  <rect x="70" y="70" width="1060" height="1460" rx="38" fill="#0d1a2b" stroke="#2b4161" stroke-width="2"/>
+  <text x="110" y="145" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROOFBERRY AI · STAFFING PILOT</text>
+  <text x="110" y="245" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">Don’t add another test.</text>
+  <text x="110" y="320" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">Investigate the contradiction.</text>
+  <text x="110" y="385" fill="#b8c7d9" font-family="Arial, Helvetica, sans-serif" font-size="28">Use deeper follow-up only where two relevant signals do not agree.</text>
+  <rect x="110" y="445" width="980" height="150" rx="24" fill="#12243a"/>
+  <text x="145" y="495" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">1 · CANDIDATE-STATED</text>
+  <text x="145" y="542" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">What the application, résumé, or profile says</text>
+  <text x="145" y="578" fill="#9fb0c4" font-family="Arial, Helvetica, sans-serif" font-size="23">Record the claim. Do not treat the claim itself as demonstrated capability.</text>
+  <rect x="110" y="620" width="980" height="150" rx="24" fill="#12243a"/>
+  <text x="145" y="670" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">2 · DEMONSTRATED / OBSERVED</text>
+  <text x="145" y="717" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">What the work sample, interview, or reviewer actually shows</text>
+  <text x="145" y="753" fill="#9fb0c4" font-family="Arial, Helvetica, sans-serif" font-size="23">Capture evidence and context, not just a score.</text>
+  <rect x="110" y="795" width="980" height="190" rx="24" fill="#12243a"/>
+  <text x="145" y="845" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">3 · ROUTE THE DIFFERENCE</text>
+  <text x="145" y="895" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Aligned → stop adding burden.</text>
+  <text x="145" y="938" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Conflicting / unclear → ask one targeted follow-up.</text>
+  <text x="145" y="972" fill="#9fb0c4" font-family="Arial, Helvetica, sans-serif" font-size="22">A contradiction is a review cue — not a fraud verdict.</text>
+  <rect x="110" y="1010" width="980" height="170" rx="24" fill="#12243a"/>
+  <text x="145" y="1060" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">4 · HUMAN REVIEW NOTE</text>
+  <text x="145" y="1108" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">What remains unresolved?</text>
+  <text x="145" y="1148" fill="#9fb0c4" font-family="Arial, Helvetica, sans-serif" font-size="22">Preserve the open question, the evidence source, and the accountable decision owner.</text>
+  <rect x="110" y="1210" width="980" height="145" rx="24" fill="#0a2a28" stroke="#1b5e57" stroke-width="2"/>
+  <text x="145" y="1260" fill="#6ee7b7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PILOT PRINCIPLE</text>
+  <text x="145" y="1310" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800">More questions only when the evidence earns them.</text>
+  <text x="110" y="1420" fill="#93a4b8" font-family="Arial, Helvetica, sans-serif" font-size="22">Illustrative early-access method · human-owned hiring decisions</text>
+  <text x="110" y="1458" fill="#6f8298" font-family="Arial, Helvetica, sans-serif" font-size="19">Not a fraud detector, validated selection model, compliance certification, or automatic hiring system.</text>
+  <text x="110" y="1498" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">ONE LIVE ROLE · ONE REVIEW WORKFLOW · ONE DECISION OWNER</text>
+</svg>
