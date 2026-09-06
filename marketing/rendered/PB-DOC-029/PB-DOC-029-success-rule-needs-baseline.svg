@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#080b10"/>
+  <rect x="70" y="70" width="1060" height="1460" rx="42" fill="#0f141c" stroke="#263142" stroke-width="2"/>
+  <text x="110" y="160" fill="#9ca3af" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="4">PROOFBERRY AI • ONE-ROLE PILOT EVALUATION</text>
+  <text x="110" y="255" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">A success rule needs</text>
+  <text x="110" y="330" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">a baseline.</text>
+  <text x="110" y="395" fill="#c7d2fe" font-family="Arial, Helvetica, sans-serif" font-size="31">Define what “better” will be compared against before the pilot starts.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="110" y="475" width="980" height="170" rx="28" fill="#121a24" stroke="#334155"/>
+    <text x="150" y="535" fill="#a78bfa" font-size="24" font-weight="800" letter-spacing="2">SUCCESS RULE</text>
+    <text x="150" y="585" fill="#ffffff" font-size="37" font-weight="800">What would make role #2 a yes?</text>
+    <text x="150" y="625" fill="#94a3b8" font-size="24">Example: less recruiter rework or clearer evidence gaps.</text>
+
+    <path d="M600 665 L600 725" stroke="#7c3aed" stroke-width="9" stroke-linecap="round"/>
+    <path d="M580 705 L600 730 L620 705" fill="none" stroke="#7c3aed" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="110" y="755" width="980" height="330" rx="28" fill="#121a24" stroke="#334155"/>
+    <text x="150" y="815" fill="#a78bfa" font-size="24" font-weight="800" letter-spacing="2">BASELINE</text>
+    <text x="150" y="865" fill="#ffffff" font-size="37" font-weight="800">What will you compare the pilot against?</text>
+
+    <rect x="150" y="915" width="280" height="92" rx="20" fill="#1b2230" stroke="#475569"/>
+    <text x="180" y="955" fill="#ffffff" font-size="23" font-weight="700">Current staffing</text>
+    <text x="180" y="985" fill="#94a3b8" font-size="21">process</text>
+
+    <rect x="460" y="915" width="280" height="92" rx="20" fill="#1b2230" stroke="#475569"/>
+    <text x="490" y="955" fill="#ffffff" font-size="23" font-weight="700">Current tool /</text>
+    <text x="490" y="985" fill="#94a3b8" font-size="21">workflow</text>
+
+    <rect x="770" y="915" width="280" height="92" rx="20" fill="#1b2230" stroke="#475569"/>
+    <text x="800" y="955" fill="#ffffff" font-size="23" font-weight="700">Manual review</text>
+    <text x="800" y="985" fill="#94a3b8" font-size="21">baseline</text>
+
+    <text x="150" y="1050" fill="#94a3b8" font-size="22">No baseline yet? Say so. Qualification can proceed, but evaluation is weaker.</text>
+
+    <rect x="110" y="1145" width="980" height="205" rx="30" fill="#24164a" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="150" y="1205" fill="#ddd6fe" font-size="25" font-weight="800" letter-spacing="2">BUYER-SIDE EVALUATION READY</text>
+    <text x="150" y="1255" fill="#ffffff" font-size="39" font-weight="800">Qualified pilot + success rule + baseline</text>
+    <text x="150" y="1300" fill="#c4b5fd" font-size="23">A cleaner comparison. Still not a promise of improved outcomes.</text>
+
+    <text x="110" y="1430" fill="#94a3b8" font-size="22">Pilot-evaluation method only. Not a candidate score, hiring recommendation, validated</text>
+    <text x="110" y="1462" fill="#94a3b8" font-size="22">selection model, predictive-validity claim, or guarantee that ProofBerry outperforms a baseline.</text>
+  </g>
+</svg>
