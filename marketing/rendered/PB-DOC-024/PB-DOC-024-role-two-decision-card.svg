@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">ProofBerry Role #2 Decision Card</title>
+  <desc id="desc">A one-page staffing design-partner decision card showing the evidence to review before expanding a one-role pilot.</desc>
+  <rect width="1200" height="1600" fill="#07111f"/>
+  <circle cx="1040" cy="120" r="250" fill="#7c3aed" opacity="0.15"/>
+  <circle cx="130" cy="1480" r="300" fill="#2563eb" opacity="0.12"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="88" y="105" font-size="28" font-weight="700" fill="#a78bfa" letter-spacing="4">PROOFBERRY AI • STAFFING DESIGN PARTNER</text>
+    <text x="88" y="205" font-size="70" font-weight="800" fill="#ffffff">Don’t scale the pilot</text>
+    <text x="88" y="285" font-size="70" font-weight="800" fill="#ffffff">until it earns role #2.</text>
+    <text x="88" y="355" font-size="27" fill="#cbd5e1">One live requisition should produce a decision, not just activity.</text>
+    <rect x="88" y="430" width="1024" height="830" rx="34" fill="#0f1c2e" stroke="#334155" stroke-width="2"/>
+    <text x="140" y="505" font-size="30" font-weight="700" fill="#ffffff">ROLE #2 DECISION REVIEW</text>
+    <text x="140" y="552" font-size="21" fill="#94a3b8">Review the one-role test with the staffing owner and client reviewer.</text>
+    <g>
+      <circle cx="160" cy="650" r="34" fill="#7c3aed"/><text x="149" y="662" font-size="30" font-weight="800" fill="#ffffff">1</text>
+      <text x="220" y="642" font-size="26" font-weight="700" fill="#ffffff">Reviewer usefulness</text>
+      <text x="220" y="678" font-size="20" fill="#cbd5e1">Did the evidence packet make the client handoff easier to inspect?</text>
+      <circle cx="160" cy="785" r="34" fill="#7c3aed"/><text x="149" y="797" font-size="30" font-weight="800" fill="#ffffff">2</text>
+      <text x="220" y="777" font-size="26" font-weight="700" fill="#ffffff">Recruiter effort</text>
+      <text x="220" y="813" font-size="20" fill="#cbd5e1">What work was removed, added, or merely shifted?</text>
+      <circle cx="160" cy="920" r="34" fill="#7c3aed"/><text x="149" y="932" font-size="30" font-weight="800" fill="#ffffff">3</text>
+      <text x="220" y="912" font-size="26" font-weight="700" fill="#ffffff">Candidate friction</text>
+      <text x="220" y="948" font-size="20" fill="#cbd5e1">Where did the process add avoidable questions or burden?</text>
+      <circle cx="160" cy="1055" r="34" fill="#7c3aed"/><text x="149" y="1067" font-size="30" font-weight="800" fill="#ffffff">4</text>
+      <text x="220" y="1047" font-size="26" font-weight="700" fill="#ffffff">Unresolved questions</text>
+      <text x="220" y="1083" font-size="20" fill="#cbd5e1">What still required human follow-up before a decision?</text>
+      <circle cx="160" cy="1190" r="34" fill="#7c3aed"/><text x="149" y="1202" font-size="30" font-weight="800" fill="#ffffff">5</text>
+      <text x="220" y="1182" font-size="26" font-weight="700" fill="#ffffff">Expand / revise / stop</text>
+      <text x="220" y="1218" font-size="20" fill="#cbd5e1">Does this workflow earn a second role? Record the reason.</text>
+    </g>
+    <rect x="88" y="1325" width="1024" height="150" rx="28" fill="#111827" stroke="#7c3aed" stroke-width="2"/>
+    <text x="140" y="1385" font-size="31" font-weight="800" fill="#ffffff">THE QUALIFIED CTA</text>
+    <text x="140" y="1432" font-size="24" fill="#ddd6fe">Bring one live role, one accountable owner, and a finite decision window.</text>
+    <text x="88" y="1535" font-size="19" fill="#94a3b8">Early-access design method. Consequential hiring decisions remain human-owned.</text>
+    <text x="1112" y="1535" text-anchor="end" font-size="19" font-weight="700" fill="#a78bfa">PROOFBERRY AI</text>
+  </g>
+</svg>
