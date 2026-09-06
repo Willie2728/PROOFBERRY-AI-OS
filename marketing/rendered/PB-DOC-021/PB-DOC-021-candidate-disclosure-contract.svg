@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#0B1020"/>
+  <rect x="70" y="70" width="1060" height="1460" rx="36" fill="#111A33" stroke="#2B3B68" stroke-width="2"/>
+  <text x="110" y="140" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">PROOFBERRY AI · STAFFING DESIGN PARTNER</text>
+  <text x="110" y="235" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800">Tell the candidate</text>
+  <text x="110" y="303" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800">before the AI asks</text>
+  <text x="110" y="371" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800">the first question.</text>
+  <text x="110" y="435" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="29">A bounded pilot needs a candidate disclosure contract, not a surprise.</text>
+  <rect x="110" y="495" width="980" height="610" rx="24" fill="#172345"/>
+  <text x="145" y="550" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">PILOT DISCLOSURE TEMPLATE</text>
+  <text x="145" y="615" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">1. WHERE AI IS USED</text>
+  <text x="180" y="655" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">Name the collection, summarization, or review-assist step being tested.</text>
+  <text x="145" y="720" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">2. WHAT AI DOES NOT OWN</text>
+  <text x="180" y="760" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">State that the consequential hiring decision remains human-owned.</text>
+  <text x="145" y="825" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">3. WHAT EVIDENCE IS REQUESTED</text>
+  <text x="180" y="865" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">Explain the role-relevant work, answers, or artifacts being collected.</text>
+  <text x="145" y="930" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">4. WHO REVIEWS IT</text>
+  <text x="180" y="970" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">Name the recruiter or client-review role responsible for judgment.</text>
+  <text x="145" y="1035" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">5. TIME, CHOICE, AND NEXT STEP</text>
+  <text x="180" y="1075" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">Set expectations for time, consent/choice, questions, and follow-up.</text>
+  <rect x="110" y="1145" width="980" height="245" rx="24" fill="#172345"/>
+  <text x="145" y="1200" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">BUYER TEST</text>
+  <text x="145" y="1260" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">Can the staffing firm explain the pilot to a candidate</text>
+  <text x="145" y="1302" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">in plain language before evidence collection begins?</text>
+  <text x="145" y="1350" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="24">If not, the workflow is not ready to earn candidate trust yet.</text>
+  <rect x="110" y="1420" width="980" height="68" rx="18" fill="#3457D5"/>
+  <text x="600" y="1464" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">CTA: Bring one live role and draft the disclosure before the pilot starts.</text>
+  <text x="110" y="1520" fill="#98A8CF" font-family="Arial, Helvetica, sans-serif" font-size="19">Illustrative early-access pilot template. No automatic hiring, compliance, outcome, or validated-selection claim.</text>
+</svg>
