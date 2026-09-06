@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#0B1020"/>
+  <rect x="70" y="70" width="1060" height="1460" rx="36" fill="#111A33" stroke="#2B3B68" stroke-width="2"/>
+  <text x="110" y="140" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">PROOFBERRY AI · STAFFING DESIGN PARTNER</text>
+  <text x="110" y="235" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">A pilot needs a</text>
+  <text x="110" y="305" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">readiness gate —</text>
+  <text x="110" y="375" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">not just a start date.</text>
+  <text x="110" y="440" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="30">Qualify the test before asking a buyer to change behavior.</text>
+  <rect x="110" y="500" width="980" height="440" rx="24" fill="#172345"/>
+  <text x="145" y="552" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">START ONLY WHEN THESE FIVE THINGS ARE TRUE</text>
+  <text x="145" y="615" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">1. There is one active requisition with clear must-haves.</text>
+  <text x="145" y="680" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">2. One staffing-side owner is accountable for the pilot.</text>
+  <text x="145" y="745" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">3. One client-side reviewer agrees to inspect the handoff.</text>
+  <text x="145" y="810" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">4. The current submission workflow stays as the baseline.</text>
+  <text x="145" y="875" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29">5. The team agrees in advance how to expand, revise, or stop.</text>
+  <rect x="110" y="980" width="980" height="265" rx="24" fill="#172345"/>
+  <text x="145" y="1032" fill="#9FB5FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">WHAT THIS FILTERS OUT</text>
+  <text x="145" y="1090" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">• Curiosity with no live hiring need</text>
+  <text x="145" y="1142" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">• Pilots with no accountable owner or reviewer</text>
+  <text x="145" y="1194" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28">• “AI transformation” projects with no measurable comparison</text>
+  <rect x="110" y="1285" width="980" height="110" rx="18" fill="#3457D5"/>
+  <text x="600" y="1334" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">If all five are true, the pilot is ready to discuss.</text>
+  <text x="600" y="1372" text-anchor="middle" fill="#DCE5FF" font-family="Arial, Helvetica, sans-serif" font-size="22">If not, fix the readiness gap before adding more technology.</text>
+  <text x="110" y="1460" fill="#C9D4F5" font-family="Arial, Helvetica, sans-serif" font-size="25">CTA: Bring one active requisition and the people who own the decision.</text>
+  <text x="110" y="1505" fill="#98A8CF" font-family="Arial, Helvetica, sans-serif" font-size="20">Illustrative early-access pilot method. No automatic hiring, ROI, compliance, placement, or ATS-integration claim.</text>
+</svg>
