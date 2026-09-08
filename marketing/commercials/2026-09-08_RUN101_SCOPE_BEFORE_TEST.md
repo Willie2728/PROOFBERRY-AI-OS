@@ -17,11 +17,11 @@ Updated the current Base44 ProofBerry landing hero and final CTA to replace the 
 
 Final Base44 application build: PASS (exit 0).
 
-Checkpoint: `6aa013341147230e424b7978`
+Final checkpoint: `6aa0156cf04f4b509c909738`
 
-Base44 commit: `b588b902774a93c21aa5a5e07c80462e5603257a`
+Final Base44 commit: `ae1ef441825f1789dd6c9e500381d0716dd87bfc`
 
-Recovered tooling failure: the first build command executed from `/workspace` and exited 254 because `package.json` was absent; `cd /app && npm run build` passed.
+Recovered tooling failure: the first build command executed from `/workspace` and exited 254 because `package.json` was absent; corrected `/app` builds passed. A final reconciliation build also passed after both landing conversion surfaces were verified to attribute to PB-TXT-111.
 
 ## Distribution Queue
 Approved for website landing use and future recruiter-focused LinkedIn/founder-led distribution once an authenticated destination is connected and attribution is verifiable. No external publication is claimed in RUN101.
