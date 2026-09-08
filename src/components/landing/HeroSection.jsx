@@ -69,7 +69,7 @@ export default function HeroSection() {
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.3 }} className="flex flex-col items-center gap-4 mb-10">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
-              <button type="button" onClick={() => { trackHeroConversion('PB-TXT-111', 'scope_one_live_role_review', 'recruiter'); window.dispatchEvent(new CustomEvent('proofberry:set-audience', { detail: { audience: 'recruiter' } })); document.getElementById('waitlist')?.scrollIntoView({ behavior: 'smooth' }); }} className="group relative inline-flex items-center justify-center rounded-full transition-transform hover:scale-105">
+              <button type="button" onClick={() => { trackHeroConversion('PB-TXT-115', 'scope_one_live_role_review', 'recruiter'); window.dispatchEvent(new CustomEvent('proofberry:set-audience', { detail: { audience: 'recruiter' } })); document.getElementById('waitlist')?.scrollIntoView({ behavior: 'smooth' }); }} className="group relative inline-flex items-center justify-center rounded-full transition-transform hover:scale-105">
                 <span className="absolute -inset-1 rounded-full bg-[linear-gradient(90deg,#8B2EFF,#B34DFF,#23B8FF)] blur-lg opacity-50 group-hover:opacity-80 transition-opacity animate-pulse" aria-hidden="true" />
                 <span className="relative inline-flex items-center justify-center gap-2 bg-[linear-gradient(90deg,#8B2EFF,#B34DFF,#23B8FF)] text-white px-9 py-4 rounded-full font-bold text-base shadow-xl shadow-primary/40 ring-1 ring-white/10">Scope One Live Role Review<ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" /></span>
               </button>
@@ -78,6 +78,7 @@ export default function HeroSection() {
             <p className="max-w-2xl text-center text-xs sm:text-sm text-muted-foreground">Staffing teams: scope one live role, an accountable owner, a decision window, and the evidence rule for review before you share contact details. A request starts a scoping conversation; it is not pilot acceptance or a hiring outcome.</p>
             <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               <a href="#how-it-works" className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">Review the evidence workflow &rarr;</a>
+              <a href="/marketing/PB-DOC-032-one-role-evidence-review-checklist.html" onClick={() => trackHeroConversion('PB-TXT-116', 'open_one_role_evidence_checklist', 'recruiter')} className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">Run the 60-second evidence check &rarr;</a>
               <button type="button" onClick={() => { trackHeroConversion('PB-TXT-086-CANDIDATE', 'candidate_early_access', 'candidate'); window.dispatchEvent(new CustomEvent('proofberry:set-audience', { detail: { audience: 'candidate' } })); document.getElementById('waitlist')?.scrollIntoView({ behavior: 'smooth' }); }} className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">I&rsquo;m a Candidate &rarr;</button>
             </div>
           </motion.div>
