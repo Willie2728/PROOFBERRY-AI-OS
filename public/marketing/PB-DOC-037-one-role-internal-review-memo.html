@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ProofBerry — One-Role Internal Review Memo</title>
+  <style>
+    :root{color-scheme:dark;background:#07111f;color:#f7fbff;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 12% 8%,#132a58 0,transparent 32%),radial-gradient(circle at 90% 0,#321653 0,transparent 30%),#07111f}.wrap{max-width:980px;margin:auto;padding:56px 22px 80px}.card{background:rgba(10,24,42,.92);border:1px solid rgba(135,196,255,.17);border-radius:22px;padding:28px;margin-top:18px}.hero{padding:38px}.eyebrow{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#78dcff}.hero h1{font-size:clamp(34px,6vw,62px);line-height:1.03;margin:12px 0 18px}.hero p,.muted{color:#b7c8da;line-height:1.7}.hero p{font-size:18px;max-width:820px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}.field label{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#8bdfff;margin-bottom:8px}.field textarea,.field input{width:100%;border:1px solid rgba(135,196,255,.2);border-radius:14px;background:#071522;color:#f7fbff;padding:13px 14px;font:inherit;line-height:1.45;resize:vertical}.field textarea{min-height:90px}.field input{min-height:46px}.btn{display:inline-block;padding:12px 16px;border-radius:999px;text-decoration:none;font-weight:750;border:0;cursor:pointer}.primary{background:linear-gradient(90deg,#8B2EFF,#23B8FF);color:white}.secondary{border:1px solid rgba(135,196,255,.28);color:#e5f3ff;background:transparent}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.memo{white-space:pre-wrap;background:#06101c;border:1px solid rgba(135,196,255,.14);border-radius:16px;padding:18px;color:#dbeeff;line-height:1.65;font-size:14px}.small{font-size:12px;color:#7890a7;line-height:1.6}.status{font-size:12px;color:#9ddfff;margin-top:10px}.rule{border-left:3px solid #78dcff;padding-left:20px}@media print{body{background:white;color:#111}.wrap{padding:20px}.card{background:white;border-color:#ccc;break-inside:avoid}.hero p,.muted,.small{color:#333}.field textarea,.field input,.memo{background:white;color:#111;border-color:#ccc}.btn,.status{display:none}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="card hero">
+      <div class="eyebrow">ProofBerry · PB-DOC-037 · Buyer Enablement</div>
+      <h1>Make the internal case before the sales call.</h1>
+      <p>Use this no-contact memo builder to turn one proposed ProofBerry review into a decision your recruiting, hiring, legal, security, or procurement partners can inspect. Fill only what you know. Leave unknowns unresolved instead of converting them into assumptions.</p>
+    </section>
+
+    <section class="card">
+      <div class="grid">
+        <div class="field"><label for="role">Live role to review</label><input id="role" placeholder="Example: Customer Success Manager" /></div>
+        <div class="field"><label for="owner">Accountable human decision owner</label><input id="owner" placeholder="Role or team, not necessarily a person’s name" /></div>
+        <div class="field"><label for="claim">Capability claim to inspect</label><textarea id="claim" placeholder="What specific role-relevant capability should the review examine?"></textarea></div>
+        <div class="field"><label for="evidence">Minimum evidence rule</label><textarea id="evidence" placeholder="What work sample, provenance, outcome receipt, reviewer trace, or corroboration is required before a claim can be treated as supported?"></textarea></div>
+        <div class="field"><label for="boundary">AI / human decision boundary</label><textarea id="boundary" placeholder="What may AI organize or surface, and what consequential judgment stays with a human?"></textarea></div>
+        <div class="field"><label for="baseline">Comparison baseline</label><textarea id="baseline" placeholder="What current review process, time-to-review, evidence quality, or error pattern will this be compared against?"></textarea></div>
+        <div class="field"><label for="window">Decision window</label><input id="window" placeholder="Example: 30 days / next hiring cycle / Q4" /></div>
+        <div class="field"><label for="stop">Stop / escalation rule</label><textarea id="stop" placeholder="What unresolved authorship, provenance, fairness, privacy, security, or process issue should pause the review or require escalation?"></textarea></div>
+      </div>
+      <div class="actions">
+        <button class="btn secondary" type="button" id="build">Build memo</button>
+        <button class="btn secondary" type="button" id="copy">Copy memo</button>
+        <a class="btn primary" href="/?audience=recruiter&utm_source=proofberry_owned&utm_medium=buyer_enablement&utm_campaign=one_role_internal_review_memo&utm_content=PB-DOC-037#waitlist">Scope one live role review →</a>
+      </div>
+      <p id="status" class="status">Nothing is sent anywhere from this page. The memo is generated in your browser.</p>
+    </section>
+
+    <section class="card">
+      <div class="eyebrow">Internal review memo</div>
+      <div id="memo" class="memo">Complete the fields above, then choose “Build memo.”</div>
+    </section>
+
+    <section class="card rule">
+      <div class="eyebrow">Claims boundary</div>
+      <p class="muted">This memo is a buyer-scoping aid. It does not verify a candidate, establish legal compliance, conduct a bias audit, validate a selection procedure, approve a pilot, guarantee an integration, or prove a hiring outcome. Any legal, fairness, privacy, security, employment, or procurement requirement must be evaluated by the appropriate accountable people using the actual deployment context.</p>
+    </section>
+
+    <p class="small">Suggested sequence: inspect PB-DOC-034 → define the decision boundary in PB-DOC-035 → qualify the role with PB-DOC-032 → use this memo to decide whether an internal stakeholder conversation and a ProofBerry scoping review are warranted.</p>
+  </main>
+  <script>
+    const ids=['role','owner','claim','evidence','boundary','baseline','window','stop'];
+    const el=(id)=>document.getElementById(id);
+    const value=(id)=>el(id).value.trim()||'Unresolved';
+    const buildMemo=()=>{
+      const text=[
+        'PROOFBERRY — ONE-ROLE INTERNAL REVIEW MEMO','',`Live role: ${value('role')}`,`Accountable human decision owner: ${value('owner')}`,'',`Capability claim to inspect:\n${value('claim')}`,'',`Minimum evidence rule:\n${value('evidence')}`,'',`AI / human decision boundary:\n${value('boundary')}`,'',`Comparison baseline:\n${value('baseline')}`,'',`Decision window: ${value('window')}`,'',`Stop / escalation rule:\n${value('stop')}`,'','Decision rule: do not treat this memo as approval. Advance only if the role, evidence rule, human owner, comparison baseline, decision window, and unresolved risks are clear enough for accountable review.','','Boundary: this is a scoping memo, not candidate verification, legal advice, a bias audit, a compliance certification, a validated selection procedure, pilot acceptance, or a hiring result.'
+      ].join('\n');
+      el('memo').textContent=text; return text;
+    };
+    el('build').addEventListener('click',()=>{buildMemo();el('status').textContent='Memo built locally in this browser. Nothing was submitted.';});
+    el('copy').addEventListener('click',async()=>{const text=buildMemo();try{await navigator.clipboard.writeText(text);el('status').textContent='Memo copied. Nothing was submitted.';}catch{el('status').textContent='Clipboard unavailable. The memo remains visible below for manual copy.';}});
+    ids.forEach((id)=>el(id).addEventListener('input',()=>{el('status').textContent='Draft changed locally. Choose “Build memo” when ready.';}));
+  </script>
+</body>
+</html>
