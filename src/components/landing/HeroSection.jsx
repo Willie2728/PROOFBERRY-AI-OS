@@ -38,7 +38,6 @@ const trackHeroConversion = (assetId, action, audience) => {
 export default function HeroSection() {
   const [videoOpen, setVideoOpen] = useState(false);
 
-  // Lock body scroll when modal is open
   useEffect(() => {
     if (videoOpen) {
       document.body.style.overflow = 'hidden';
@@ -129,24 +128,11 @@ export default function HeroSection() {
             </p>
             <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               <a
-                href="#how-it-works"
+                href="/marketing/PB-DOC-036-recruiter-evidence-review-kit.html"
+                onClick={() => trackHeroConversion('PB-DOC-036', 'open_recruiter_evidence_review_kit', 'recruiter')}
                 className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium"
               >
-                Review the evidence workflow &rarr;
-              </a>
-              <a
-                href="/marketing/PB-DOC-032-one-role-evidence-review-checklist.html"
-                onClick={() => trackHeroConversion('PB-TXT-116', 'open_one_role_evidence_checklist', 'recruiter')}
-                className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium"
-              >
-                Run the 60-second evidence check &rarr;
-              </a>
-              <a
-                href="/marketing/PB-DOC-034-illustrative-evidence-packet.html"
-                onClick={() => trackHeroConversion('PB-TXT-118', 'open_illustrative_evidence_packet', 'recruiter')}
-                className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium"
-              >
-                See an illustrative evidence packet &rarr;
+                Open the Recruiter Evidence Review Kit &rarr;
               </a>
               <button
                 type="button"
@@ -203,7 +189,6 @@ export default function HeroSection() {
         </motion.div>
       </motion.div>
 
-      {/* Video lightbox */}
       <AnimatePresence>
         {videoOpen && (
           <motion.div
