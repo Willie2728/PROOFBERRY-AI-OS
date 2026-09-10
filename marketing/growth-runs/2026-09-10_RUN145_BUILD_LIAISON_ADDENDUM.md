@@ -1,0 +1,13 @@
+# RUN145 Build Liaison Addendum — VERLORAY MUSIC Pending Approvals
+
+A final approval sweep of the reviewed VERLORAY MUSIC Base44 app found **five existing pending high-risk Approval records**. These were not auto-approved or executed. Their presence is surfaced here exactly as release-state exceptions; record text is not treated as verified commercial fact.
+
+1. **Rotate ElevenLabs production API key** — Approval id `6a8a937b642825903801e84f`; WorkItem `6a8a937be1e81bd5c618e27a`; department Credential Management; risk high; cost record $0; WorkItem status pending; payload says credential rotation.
+2. **Outreach to 8 podcasts for NOVA launch** — Approval id `6a8a937b04a863552b0d6214`; WorkItem `6a8a937b2d9b08aa46f1e1b5`; department PR; risk high; cost record $0; WorkItem status pending; payload says outbound pitch.
+3. **Sign sync license — indie film placement** — Approval id `6a8a937b4633250d944a867f`; WorkItem `6a8a937bdfd1593f3605444b`; department Licensing; risk high; cost record $0; WorkItem status pending; the Approval record contains an impact label “$12K placement,” but RUN145 does **not** verify that placement, value, license, counterparty, or agreement.
+4. **Distribute 'Velvet Static' to Spotify & Apple Music** — Approval id `6a8a937be5d8ee6d2d0ea51b`; WorkItem `6a8a937b6be3312f91b6f3f4`; department Distribution; risk high; cost record $0; WorkItem status pending; payload says ISRC pending. RUN145 does not claim the recording, rights state, ISRC, provider connection, or release is verified.
+5. **Propose $6,200 TikTok paid campaign** — Approval id `6a8a937b7935b5fcb199a42e`; WorkItem `6a8a937ab0987c12e8cbfda9`; department Advertising; risk high; recorded cost $6,200; WorkItem status pending; payload says audience F18–27 urban. The Approval record also contains an estimated “+18% streams” impact label, which RUN145 treats as an unsupported estimate, not performance evidence.
+
+All five WorkItems have `requires_approval=true`, `risk_level=high`, and `status=pending`. None was mutated in RUN145. No approval dialog was presented interactively by the tools during the run, but these durable pending approval records require human review before any corresponding credential rotation, outreach, license action, distribution action, or paid-spend action should proceed.
+
+The distribution/connectivity hold remains separate: VERLORAY MUSIC has 0/81 Base44 connectors connected on current readback, including no verified TikTok, Spotify, Apple Music, social, paid-media, or analytics connector through the reviewed connector catalog. No media, release, outreach, license, ad spend, stream lift, or commercial outcome is claimed.
